@@ -3,7 +3,7 @@
 An end-to-end Power BI business intelligence suite analyzing 100K+ marketplace orders across commercial revenue, logistics pipelines, and customer satisfaction metrics.
 
 ## 🔗 Live Artifacts
-* **Interactive Dashboard Portfolio:** [Insert NovyPro / LinkedIn Link Here]
+* **Dashboard PDF:** [`Click Here`](E-Commerce_Operations_&_Retention_Analysis.pdf)
 * **Production Data Model File:** [`Click Here to Download .pbit`](BR_Ecom_Project.pbit)
 * **Raw Data Source:** [Kaggle Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
