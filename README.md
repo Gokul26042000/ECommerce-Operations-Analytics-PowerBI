@@ -4,7 +4,7 @@ An end-to-end Power BI business intelligence suite analyzing 100K+ marketplace o
 
 ## 🔗 Live Artifacts
 * **Interactive Dashboard Portfolio:** [Insert NovyPro / LinkedIn Link Here]
-* **Production Data Model File:** [`Click Here to Download .pbix`](BR_Ecom_Project.pbit)
+* **Production Data Model File:** [`Click Here to Download .pbit`](BR_Ecom_Project.pbit)
 * **Raw Data Source:** [Kaggle Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
