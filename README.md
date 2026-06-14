@@ -39,11 +39,17 @@ This project translates raw transactional database tables into a centralized cor
 * **BR-2.3 (Geographic Performance):** Integrated an interactive geographical map mapping average logistics delays by customer state to isolate carrier bottlenecks.
 * **BR-2.4 (Cost Metrics):** Designed a sales-to-freight cost ratio chart ensuring shipping overhead does not compress underlying product margins.
 
+<img width="1152" height="640" alt="image" src="https://github.com/user-attachments/assets/016b92da-382e-42b7-b52d-ece2db2c777e" />
+
+
 ### Page 3: Customer Experience & Quality Control
 * **BR-3.1 (KPIs):** Constructed a metric card reporting the core corporate benchmark: Overall Average Review Score (out of 5 stars).
 * **BR-3.2 (Sentiment Distribution):** Restructured a rating standings bar chart utilizing explicit item volume counters (`COUNT` vs. `SUM`) to accurately report sentiment frequency distribution.
 * **BR-3.3 (Correlation Insights):** Engineered a dual-axis trend graph cross-referencing average customer review scores with operational delivery delays, proving the **"Fulfillment Scissors Effect"** (where supply chain delay spikes directly trigger a crash in consumer sentiment).
 * **BR-3.4 (Retention Tracking):** Formulated an advanced, multi-layered DAX measure to track customer loyalty across a complex relational star schema.
+
+<img width="1152" height="643" alt="image" src="https://github.com/user-attachments/assets/2fed5a6b-0a53-44e4-990e-dc446c5d0f0b" />
+
 
 🔧 Engineering Log: Problem Solving & Debugging Case Study
 "A project is only as good as the developer's ability to debug its hidden constraints."
