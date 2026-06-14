@@ -30,6 +30,9 @@ This project translates raw transactional database tables into a centralized cor
 * **BR-1.3 (Product Mix):** Configured a horizontal bar visual mapping the Top 10 Product Categories by revenue generation to identify dominant portfolio items.
 * **BR-1.4 (Commercial Concentration):** Implemented a payment share donut chart detailing transaction methods (Credit Card vs. Boleto vs. Voucher vs. Debit Card).
 
+<img width="1151" height="643" alt="image" src="https://github.com/user-attachments/assets/de69d421-af5e-4b3e-b425-118d8f2f815e" />
+
+
 ### Page 2: Logistics & Supply Chain Efficiency
 * **BR-2.1 (KPIs):** Set up strategic scorecards calculating Average Days Taken for Delivery and the On-Time Delivery Rate.
 * **BR-2.2 (SLA Gap Analysis):** Modeled a delivery variance calculator measuring the delta between Expected Delivery Date (EDD) and Actual Delivery Date (DD) to identify true delivery lag.
