@@ -18,8 +18,7 @@ This project translates raw transactional database tables into a centralized cor
 
 ### 🛠️ Data Engineering & ETL (Power Query)
 * **Data Integration & Transformation:** Handled structural text inconsistencies, resolved null/missing keys in `product_category_name`, and mapped dimensional profiles.
-* **Feature Engineering:** Developed a dynamic `weight_category` custom column using conditional logical parsing in Power Query, establishing a weight-based physical attribute baseline for logistics profiling.
-* **Relational Star Schema:** Normalized flat files into a clean dimensional star schema model, isolating transactional Fact entities (`fact_orders`, `fact_order_items`) from Dimension tables (`dim_customers`, `dim_products`, `dim_payments`) via optimized primary and foreign key `1:M` relationships.
+* **Relational Star Schema:** Normalized flat files into a clean dimensional star schema model, isolating transactional Fact entity (`fact_order_items_dataset`) from Dimension tables (,`dim_orders_dataset`,`dim_customers_dataset`, `dim_products_dataset`, `dim_order_payments_dataset`,`dim_order_reviews_dataset`) via optimized primary and foreign key `1:M` relationships.
 
 ---
 
